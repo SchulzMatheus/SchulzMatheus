@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## E aí, GALERA!!! Ta tudo sussa? 😁
 
  <div>
   <a href="https://github.com/SchulzMatheus">
