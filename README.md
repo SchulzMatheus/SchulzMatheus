@@ -1,4 +1,4 @@
-## E aí, GALERA!!! Ta tudo sussa? 😁
+## Heya! 😁
 
  <div>
   <a href="https://github.com/SchulzMatheus">
