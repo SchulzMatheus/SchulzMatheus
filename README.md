@@ -16,5 +16,5 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/matheus-simplicio-92948412b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ e-mail: matheusschulz47@gmail.com
 </div>
